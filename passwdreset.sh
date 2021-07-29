@@ -3,7 +3,6 @@
 # Script Description
 # This Script is for changing/resetting user password
 # Author  : Ibrahim Patel
-# Team    : Billing TI Team
 # Date    : 17 Sept 2020
 # Version : 1.0
 #-------------------------------------------------------------

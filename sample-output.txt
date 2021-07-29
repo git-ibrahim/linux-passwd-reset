@@ -1,0 +1,134 @@
+$ ./passwdreset.sh
+=========================================================
+Changing Password for User user1 in Server 10.2.22.184
+=========================================================
+
+                Welcome.
+
+WARNING: You have accessed a computer managed by XYZ.
+You are required to have authorisation from XYZ before you proceed
+and you are strictly limited to the use set out within that authorisation.
+Unauthorised access to or misuse of this system or the data contained on
+this system is strictly prohibited and may constitute an offence.
+
+
+
+(current) UNIX password: New password: Retype new password: Changing password for user user1.
+Changing password for user1.
+passwd: all authentication tokens updated successfully.
+=========================================================
+Changing Password for User user1 in Server 10.2.22.185
+=========================================================
+
+                Welcome.
+
+WARNING: You have accessed a computer managed by XYZ.
+You are required to have authorisation from XYZ before you proceed
+and you are strictly limited to the use set out within that authorisation.
+Unauthorised access to or misuse of this system or the data contained on
+this system is strictly prohibited and may constitute an offence.
+
+
+
+(current) UNIX password: New password: Retype new password: Changing password for user user1.
+Changing password for user1.
+passwd: all authentication tokens updated successfully.
+=========================================================
+Changing Password for User user1 in Server 10.2.22.206
+=========================================================
+
+                Welcome.
+
+WARNING: You have accessed a computer managed by XYZ.
+You are required to have authorisation from XYZ before you proceed
+and you are strictly limited to the use set out within that authorisation.
+Unauthorised access to or misuse of this system or the data contained on
+this system is strictly prohibited and may constitute an offence.
+
+
+
+(current) UNIX password: New password: Retype new password: Changing password for user user1.
+Changing password for user1.
+passwd: all authentication tokens updated successfully.
+=========================================================
+Changing Password for User user2 in Server 10.2.22.184
+=========================================================
+
+                Welcome.
+
+WARNING: You have accessed a computer managed by XYZ.
+You are required to have authorisation from XYZ before you proceed
+and you are strictly limited to the use set out within that authorisation.
+Unauthorised access to or misuse of this system or the data contained on
+this system is strictly prohibited and may constitute an offence.
+
+
+
+(current) UNIX password: New password: Retype new password: Changing password for user user2.
+Changing password for user2.
+passwd: all authentication tokens updated successfully.
+=========================================================
+Changing Password for User user2 in Server 10.2.22.185
+=========================================================
+
+                Welcome.
+
+WARNING: You have accessed a computer managed by XYZ.
+You are required to have authorisation from XYZ before you proceed
+and you are strictly limited to the use set out within that authorisation.
+Unauthorised access to or misuse of this system or the data contained on
+this system is strictly prohibited and may constitute an offence.
+
+
+
+(current) UNIX password: New password: Retype new password: Changing password for user user2.
+Changing password for user2.
+passwd: all authentication tokens updated successfully.
+=========================================================
+Changing Password for User user2 in Server 10.2.22.201
+=========================================================
+
+                Welcome.
+
+WARNING: You have accessed a computer managed by XYZ.
+You are required to have authorisation from XYZ before you proceed
+and you are strictly limited to the use set out within that authorisation.
+Unauthorised access to or misuse of this system or the data contained on
+this system is strictly prohibited and may constitute an offence.
+
+
+
+(current) UNIX password: New password: Retype new password: Changing password for user user2.
+Changing password for user2.
+passwd: all authentication tokens updated successfully.
+=========================================================
+Changing Password for User user2 in Server 10.2.22.206
+=========================================================
+
+WARNING: You have accessed a computer managed by XYZ.
+You are required to have authorisation from XYZ before you proceed
+and you are strictly limited to the use set out within that authorisation.
+Unauthorised access to or misuse of this system or the data contained on
+this system is strictly prohibited and may constitute an offence.
+
+
+
+(current) UNIX password: New password: Retype new password: Changing password for user user2.
+Changing password for user2.
+passwd: all authentication tokens updated successfully.
+=========================================================
+Changing Password for User user3 in Server 10.2.22.24
+=========================================================
+
+                      Welcome.
+
+WARNING: You have accessed a computer managed by XYZ.
+You are required to have authorisation from XYZ before you proceed
+and you are strictly limited to the use set out within that authorisation.
+Unauthorised access to or misuse of this system or the data contained on
+this system is strictly prohibited and may constitute an offence.
+
+
+(current) UNIX password: New password: Retype new password: Changing password for user amd.
+Changing password for amd.
+passwd: all authentication tokens updated successfully.
